@@ -9,5 +9,5 @@
 
 💙 Join the channel to see more videos like this. [CodingGujarat](https://www.youtube.com/@CodingGujarat)
 
-![preview img](/preview.png)
+![preview img](/prev.png)
 
